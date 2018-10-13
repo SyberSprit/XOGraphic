@@ -1,0 +1,10 @@
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\bin\Debug\XOGraphic.exe.config
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\bin\Debug\XOGraphic.exe
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\bin\Debug\XOGraphic.pdb
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.Form1.resources
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.Properties.Resources.resources
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.XO_Template.resources
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.exe
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.pdb
+C:\Users\Angela\Desktop\XOGraphic\XOGraphic\obj\Debug\XOGraphic.csprojResolveAssemblyReference.cache
